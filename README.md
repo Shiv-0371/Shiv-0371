@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Shiv
 - 👀 I’m interested in Football, Coding and Anime....
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+  
+  💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .... Shiva.786.sp@gmail.com
 
 <!---
